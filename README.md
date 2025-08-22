@@ -1,6 +1,6 @@
 # Capstone Project for Business Data Management
 
-> Please do not copy or modify this, only for you to submit as your own! 
+> Please do not copy or modify this, only for you to submit as your own! \n 
 > You will be flagged by the plagiarism checker and your submissions will be rejected or worse.
 > You have been warned!!
 
